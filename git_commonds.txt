@@ -1,0 +1,10 @@
+touch test.py
+ git status
+ git add .\test.py
+   git status
+   git add .
+   git rm --cheche test.py
+   git status
+ git commit -m "my message"
+   git status
+   git restore test.py
