@@ -1,10 +1,20 @@
-touch test.py
- git status
- git add .\test.py
+   touch test.py
+   git status
+   git add .\test.py
    git status
    git add .
    git rm --cheche test.py
    git status
- git commit -m "my message"
+   git commit -m "my message"
    git status
    git restore test.py
+
+   git remote add origin https://github.com/dev-saurabhdixit/Git-_Learn.git
+   git remote -v
+   git status
+   git push origin master
+   git push origin main
+   git push origin master --force
+   git push origin main --force
+   git status
+   git remote -v
