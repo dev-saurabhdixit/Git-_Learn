@@ -19,5 +19,5 @@
    git status
    git remote -v
 
-////////////
+/// this is pull cmd for the below text ////
 this is some new chenges for checked
